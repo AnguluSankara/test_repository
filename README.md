@@ -1,4 +1,6 @@
 # test_repository
+Random Image
+![alt text](image.jpg)
 A repository to test the github environment
 1. Background and overview
 2. Project goals
