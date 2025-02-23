@@ -1,6 +1,6 @@
 # test_repository
 Random Image
-![alt text]("Screenshot 2025-01-07 155808.png")
+![alt text](images/Screenshot 2025-01-07 155808.png)
 A repository to test the github environment
 1. Background and overview
 2. Project goals
